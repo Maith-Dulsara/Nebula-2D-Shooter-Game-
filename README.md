@@ -51,3 +51,7 @@
 
 
 To play the game, simply click the "Start Game" button. When you die, you can click "Play Again" to restart. The game will run in your browser without requiring any additional installation.
+
+
+
+https://github.com/user-attachments/assets/d8f6fbde-28ce-41c5-a3f0-170b78f0b5b7
