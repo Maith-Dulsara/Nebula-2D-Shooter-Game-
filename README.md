@@ -54,4 +54,4 @@ To play the game, simply click the "Start Game" button. When you die, you can cl
 
 
 
-https://github.com/user-attachments/assets/d8f6fbde-28ce-41c5-a3f0-170b78f0b5b7
+https://github.com/user-attachments/assets/5e06fe75-4658-4eb4-bf4e-f8c1af67f23f
